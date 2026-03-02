@@ -24,9 +24,11 @@ console.log(names.indexOf("David"));
 // reverse(), 
 const numbers = [1, 2, 3, 4, 5];
 numbers.reverse();
+numbers.sort(); //sorts the elements of the array in place and returns the sorted array
 console.log(numbers);
 
 // 
 //sort(), slice(), splice(), concat(), join(), map(), filter(), reduce(),  toString(), valueOf()
 
 // check the sort methods, search methods, iteration methods, array reference methods.
+//create one array and apply the methods i.e. sort methods, search methods etc 
